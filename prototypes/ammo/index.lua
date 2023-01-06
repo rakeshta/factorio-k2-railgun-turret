@@ -8,3 +8,4 @@
 require("prototypes.ammo.railgun-shell")
 require("prototypes.ammo.projectiles")
 require("prototypes.ammo.explosion-damage")
+require("prototypes.ammo.recipes")
