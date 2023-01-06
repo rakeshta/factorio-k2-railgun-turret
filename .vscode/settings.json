@@ -7,10 +7,13 @@
     }
   ],
   "Lua.workspace.library": [
-    "/Users/rakesh/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data"
+    "/Users/rakesh/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data",
+    "/Users/rakesh/Library/Application Support/Code/User/workspaceStorage/f26382d66d21a2c0f791009d7c8fe637/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library"
   ],
-  "Lua.workspace.userThirdParty": [],
-  "Lua.diagnostics.globals": [],
+  "Lua.workspace.userThirdParty": [
+    "/Users/rakesh/Library/Application Support/Code/User/workspaceStorage/f26382d66d21a2c0f791009d7c8fe637/justarandomgeek.factoriomod-debug/sumneko-3rd"
+  ],
+  "Lua.diagnostics.globals": ["k2_railgun_turrent_path", "__DebugAdapter", "__Profiler"],
   "Lua.runtime.builtin": {
     "io": "disable",
     "os": "disable",
@@ -23,5 +26,6 @@
   "Lua.runtime.special": {
     "__object_name": "type"
   },
-  "cSpell.words": ["factorio"]
+  "cSpell.words": ["factorio"],
+  "Lua.runtime.plugin": "/Users/rakesh/Library/Application Support/Code/User/workspaceStorage/f26382d66d21a2c0f791009d7c8fe637/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/plugin.lua"
 }
