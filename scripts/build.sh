@@ -29,6 +29,7 @@ cp -r \
   ./graphics \
   ./locale \
   ./prototypes \
+  ./sounds \
   ./*.lua \
   ./info.json \
   ./LICENSE \
