@@ -10,7 +10,17 @@ import ConfigParser from 'configparser';
 
 const K2_LANG_FILE = 'Krastorio2.cfg';
 const LANG_FILE = 'lang.cfg';
-const LANG_KEYS = [];
+const LANG_KEYS = [
+  'kr-explosion',
+  'basic-railgun-projectile',
+  'explosion-railgun-projectile',
+  'railgun-shell',
+  'basic-railgun-shell',
+  'explosion-railgun-shell',
+  'railgun-turret',
+  'kr-railgun-turret',
+  'turret-remnant',
+];
 
 async function main(): Promise<void> {
   // check if the source folder was passed as an argument
