@@ -9,4 +9,5 @@ k2_railgun_turrent_path = "__k2-railgun-turret__/"
 
 require("prototypes.categories.index")
 require("prototypes.ammo.index")
--- require("prototypes.railgun-turret.index")
+require("prototypes.railgun-turret.index")
+require("prototypes.remnants.index")
