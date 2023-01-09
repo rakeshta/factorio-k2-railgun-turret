@@ -9,8 +9,7 @@ data:extend({
   {
     type = "recipe",
     name = "kr-railgun-turret",
-    -- enabled = false,
-    enabled = true,
+    enabled = false,
     energy_required = 20,
     ingredients = {
       { "gun-turret", 4 },
