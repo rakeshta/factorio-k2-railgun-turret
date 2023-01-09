@@ -2,7 +2,7 @@
   "name": "k2-railgun-turret",
   "version": "1.0.0",
   "title": "k2 Railgun Turret",
-  "description": "Railgun turrent from Krastorio 2.",
+  "description": "Railgun turrent from Krastorio 2. An extremely powerful turret specialized in taking out large groups of enemies at once.",
   "author": "RaptorTWiked",
   "factorio_version": "1.1",
   "dependencies": [
